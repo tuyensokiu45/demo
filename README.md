@@ -1,1 +1,1 @@
-# demo
+This project focuses on the development of an application that detects leaf damage and diseases using a contour detection algorithm. By analyzing leaf images, the algorithm identifies areas affected by pests or diseases, providing a reliable tool for agricultural monitoring and plant health assessment. The application utilizes image processing techniques to highlight affected regions, offering a visual representation of the leaf's condition.
